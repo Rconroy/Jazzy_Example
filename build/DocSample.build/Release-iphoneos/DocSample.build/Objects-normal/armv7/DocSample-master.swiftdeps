@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "383a11d4a486fc97271281b62d7fe22f"
+build_time: [518819821, 552315000]
+inputs:
+  "/Users/ryanconroy/Downloads/SwiftDocSample-master/DocSample/ViewController.swift": [516333872, 0]
+  "/Users/ryanconroy/Downloads/SwiftDocSample-master/DocSample/AppDelegate.swift": [516333872, 0]
